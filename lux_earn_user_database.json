@@ -4,7 +4,7 @@
       "username": "CEO ",
       "email": "specialbella00@gmail.com",
       "encrypted_password": "5ad707348af0c38dbdd7c7a3664135ba",
-      "referral_code": "CEDWQ",
+      "referral_code": "CEDW1",
       "inviter_referral_code": null,
       "inviter_username": null,
       "invited_users": [],
@@ -31625,15 +31625,14 @@
       "inviter_referral_code": "TE6SX",
       "inviter_username": "Temmy",
       "invited_users": [],
-      "balance": 30,
+      "balance": 0,
       "refers": 0,
       "referralBalance": 0,
       "withdrawalBalance": 0,
       "status": "active",
       "joinDate": "2025-02-21T13:15:29.965Z",
-      "completedMissions": [
-        1
-      ]
+      "completedMissions": [],
+      "lastSpin": null
     },
     {
       "username": "Vardi",
